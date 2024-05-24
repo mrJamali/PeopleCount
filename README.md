@@ -1,7 +1,11 @@
 # PeopleCount
 **Project Title:**
 **Development of an Energy Optimization Device and People Counter with Temperature and Light Control**
+
+
 ![Bachelorarbeit](https://github.com/mrJamali/PeopleCount/assets/96734284/ef39cb6e-a5d7-4ddd-8801-9cec3f3d1759)
+
+
 The use of four IR sensors (two pairs) helps accurately determine the direction of movement. The sensors are connected to the microcontroller, which processes the signals to update the people count. The sequence of beam interruption allows the system to differentiate between entry and exit, ensuring accurate tracking of the number of people in the room.
 By implementing this setup, the microcontroller can reliably detect and count people entering and exiting, thus enabling efficient control of lighting and temperature based on the room's occupancy.
 
