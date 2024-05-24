@@ -244,6 +244,10 @@ void updatePeopleCount() {
     updateDisplay(peopleCount, readTemperature());
 }
 ```
+![Schematics](https://github.com/mrJamali/PeopleCount/assets/96734284/3b4a4c40-1b2c-4f30-87ac-04481090d7f6)
+[Uploading Jamlai1.PrjPcb…]()      
+
+
 
 
 
