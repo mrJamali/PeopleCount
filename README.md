@@ -56,7 +56,6 @@ The aim of this project is to design and implement a system that optimizes energ
    - **HVAC Relays:**
      - Relay 3 (HEATER): Controls the heating device.
      - Relay 4 (COOLER): Controls the cooling device.
-![personal count](https://github.com/user-attachments/assets/14fa99ed-4c78-48db-aeb8-f6f762174d9b)
 
 ### System Functionality:
 
@@ -142,6 +141,7 @@ void controlTemperature(int temp) {
 ```
 
 ### How to Use the System:
+![Screenshot 2024-08-06 161712](https://github.com/user-attachments/assets/f6744e71-45a8-4975-91f3-d505079cfe5e)
 
 1. **Hardware Setup:**
    - Connect the IR sensors at the entrance of the room.
@@ -183,6 +183,9 @@ void controlTemperature(int temp) {
 **Circuit Connections:**
 - **IR Transmitter (SENDER_IN, SENDER_OUT):** Connected to the power supply.
 - **IR Receiver (RECEIVER_IN, RECEIVER_OUT):** Connected to specific input pins on the microcontroller, for example, `PINC0` and `PINC1` for the entrance, and `PINC2` and `PINC3` for the exit.
+
+![personal count](https://github.com/user-attachments/assets/14fa99ed-4c78-48db-aeb8-f6f762174d9b)
+
 
 **Example Pin Configuration:**
 ```c
