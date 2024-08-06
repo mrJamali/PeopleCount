@@ -56,6 +56,7 @@ The aim of this project is to design and implement a system that optimizes energ
    - **HVAC Relays:**
      - Relay 3 (HEATER): Controls the heating device.
      - Relay 4 (COOLER): Controls the cooling device.
+![personal count](https://github.com/user-attachments/assets/14fa99ed-4c78-48db-aeb8-f6f762174d9b)
 
 ### System Functionality:
 
